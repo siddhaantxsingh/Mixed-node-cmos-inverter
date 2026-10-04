@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+# Sentaurus outputs (generated on the lab machine)
+*.tdr
+*.plt
+*.log
+*.sav
